@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'app-weu-dp-28aprg1-test-01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C9BDEDC00640487898E9D203529088E2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9C24956E25E049198F5FC38FBEA8BF9A }}
           package: .
